@@ -90,6 +90,11 @@ diagrams/       Block and circuit diagrams
 
 This project was completed as part of a team for academic purposes.
 
+### Team members
+- Saketh Aryan Amineni
+- Cherukuri Sri Nithya
+- M. Janani Sree
+
 ---
 
 ## License
