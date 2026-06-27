@@ -60,8 +60,8 @@ This project presents a smart car capable of detecting obstacles and automatical
 ## Working Principle
 
 1. The HC-SR04 ultrasonic sensor continuously measures the distance to obstacles.
-2. The Arduino Uno adjusts the motor speed according to the measured distance.
-3. If an obstacle is detected within the safety threshold, the vehicle stops automatically.
+2. The Arduino Uno processes the measured distance and adjusts the motor speed accordingly (adaptive speed control).
+3. As the vehicle approaches an obstacle, it gradually slows down. If the obstacle reaches the predefined safety threshold, the vehicle stops automatically.
 4. Bluetooth commands allow manual movement of the vehicle.
 5. The ESP32-CAM hosts a camera server and streams live video over Wi-Fi, enabling real-time monitoring of the vehicle's surroundings.
 
