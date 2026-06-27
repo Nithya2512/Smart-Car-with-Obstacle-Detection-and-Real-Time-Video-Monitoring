@@ -6,6 +6,25 @@ This project presents a smart car capable of detecting obstacles and automatical
 
 > **Note:** This project was developed as a team project for academic purposes.
 
+## Project Images
+
+### Smart Car - Side View
+![Smart Car Side](images/smart-car-side.png)
+
+### Smart Car - Front View
+![Smart Car Front](images/smart-car-front.png)
+
+### System Block Diagram
+![System Block Diagram](images/system-block-diagram.png)
+
+### Object Detection Demo
+![Object Detection Demo](images/object-detection-demo.png)
+
+### ESP32-CAM Live Stream
+![ESP32 Stream 1](images/esp32-stream-1.png)
+
+![ESP32 Stream 2](images/esp32-stream-2.png)
+
 ---
 
 ## Features
